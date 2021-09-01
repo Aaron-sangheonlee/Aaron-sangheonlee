@@ -4,6 +4,8 @@
 
 
 Career 
+
+
 고려대학교 기계공학부 졸업
 US Callifornia State Converse English Development School
 현대자동차 연구개발본부 근무

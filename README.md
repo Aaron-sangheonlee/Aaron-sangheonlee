@@ -3,14 +3,12 @@
 
 
 
-Career 
-
-
+Career   
 고려대학교 기계공학부 졸업   
-US Callifornia State Converse English Development School
-현대자동차 연구개발본부 근무
-한국항공대학교 울진항공훈련원 교육 수료
-서울직무캠프 iOS 개발자 과정 수료
+US Callifornia State Converse English Development School   
+현대자동차 연구개발본부 근무   
+한국항공대학교 울진항공훈련원 교육 수료   
+서울직무캠프 iOS 개발자 과정 수료   
 
 
 

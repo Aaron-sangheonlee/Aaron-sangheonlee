@@ -13,7 +13,7 @@ Technical Stack
 
 
 <img src="https://img.shields.io/badge/iOS-3DDC84?style=flat-square&logo=APPLE&logoColor=white"/>
-<img src="https://img.shields.io/static/v1?label=<Swift>&color=<Blue>"/>
+<img src="https://img.shields.io/static/v1?label=Swift&message=&color=Blue"/>
 
 
 <!--

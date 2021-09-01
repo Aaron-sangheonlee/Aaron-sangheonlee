@@ -3,7 +3,7 @@
 
 
 
-Career   
+Career      
 고려대학교 기계공학부 졸업   
 US Callifornia State Converse English Development School   
 현대자동차 연구개발본부 근무   
@@ -13,7 +13,7 @@ US Callifornia State Converse English Development School
 
 
 
-Technical Stack
+Technical Stack      
 
 
 <img src="https://img.shields.io/badge/iOS-3DDC84?style=flat-square&logo=APPLE&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-blue"/> <img src="https://img.shields.io/badge/Node.js-brown"/> <img src="https://img.shields.io/badge/GitHub-black"/>

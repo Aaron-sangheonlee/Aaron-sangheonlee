@@ -17,8 +17,7 @@ US Callifornia State Converse English Development School
 Technical Stack
 
 
-<img src="https://img.shields.io/badge/iOS-3DDC84?style=flat-square&logo=APPLE&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-blue"/><img src="https://img.shields.io/badge/Node.js-brown"/><img src="https://img.shields.io/badge/GitHub-black"/>
+<img src="https://img.shields.io/badge/iOS-3DDC84?style=flat-square&logo=APPLE&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-blue"/> <img src="https://img.shields.io/badge/Node.js-brown"/> <img src="https://img.shields.io/badge/GitHub-black"/>
 
 
 <!--

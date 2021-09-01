@@ -1,7 +1,7 @@
 ### 안녕하세요!
 주니어 개발자 이상헌입니다! 
 
-#Career 
+Career 
 
 고려대학교 기계공학부 졸업
 
@@ -17,7 +17,8 @@ US Callifornia State Converse English Development School
 Technical Stack
 
 
-<img src="https://img.shields.io/badge/iOS-3DDC84?style=flat-square&logo=APPLE&logoColor=white"/><img src="https://img.shields.io/badge/Swift-blue"/><img src="https://img.shields.io/badge/Node.js-brown"/><img src="https://img.shields.io/badge/GitHub-black"/>
+<img src="https://img.shields.io/badge/iOS-3DDC84?style=flat-square&logo=APPLE&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-blue"/><img src="https://img.shields.io/badge/Node.js-brown"/><img src="https://img.shields.io/badge/GitHub-black"/>
 
 
 <!--
